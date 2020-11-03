@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a94317e3c0193c42a510e4f4b6d8fa1, type: 3}
+  m_Name: MonsterCard
+  m_EditorClassIdentifier: 
+  card_back: {fileID: 0}
+  monster_name: "\u30B5\u30F3\u30D7\u30EB\u2460 (\u68EE\u306E\u5996\u7CBE)"
+  costs: 00000000
+  text: "\u68EE\u306B\u4F4F\u3080\u5996\u7CBE\u3002"
+  attribute: 3
+  level: 1
+  has_star: 0
